@@ -1,0 +1,20 @@
+[
+  {
+    "id": "admin-001",
+    "name": "Admin User",
+    "email": "admin@stayindia.com",
+    "password": "admin123",
+    "phone": "+91-9999999999",
+    "role": "admin",
+    "createdAt": "2024-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "user-001",
+    "name": "Madhurya Vinjamuri",
+    "email": "user@stayindia.com",
+    "password": "user123",
+    "phone": "+91-9876543210",
+    "role": "user",
+    "createdAt": "2024-06-15T10:30:00.000Z"
+  }
+]

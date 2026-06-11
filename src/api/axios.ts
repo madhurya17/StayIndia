@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-  baseURL: 'https://stayindia-backend.onrender.com',
+  baseURL: 'https://stayindia-backend.onrender.com/api',
   headers: {
     'Content-Type': 'application/json',
   },
